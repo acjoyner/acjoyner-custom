@@ -18,11 +18,11 @@ export class SkillsComponent implements OnInit {
     'angular',
     'typescript',
     'python',
-    'kafka',
-    'archer',
-    'next.js',
-    'react',
-    'dotnet',
+    'css',
+    'flask',
+    'django',
+    'javascript',
+    'linux',
   ];
   skillPositions: string[][] = [];
   currentlyDragging: number | undefined;
